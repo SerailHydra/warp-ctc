@@ -1,3 +1,5 @@
+Forked repo from SeanNaren's warp-ctc repo, rollback so that it works with pytorch 0.4.1
+
 # PyTorch bindings for Warp-ctc
 
 [![Build Status](https://travis-ci.org/SeanNaren/warp-ctc.svg?branch=pytorch_bindings)](https://travis-ci.org/SeanNaren/warp-ctc)
